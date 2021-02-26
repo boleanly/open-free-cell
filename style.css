@@ -1,0 +1,20 @@
+body {
+    height: 100%;
+    background-image: linear-gradient(seagreen, lightgreen);
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    margin-bottom: 0.1em;
+    color: white;
+    text-shadow: 2px 2px black;
+    font-size: 42px;
+    font-family: "RocknRoll One", "Times New Roman", serif;
+    font-variant: small-caps;
+}
+
+iframe {
+    width: 85%;
+    height: 85%;
+}
